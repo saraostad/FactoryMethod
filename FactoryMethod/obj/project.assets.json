@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Gang Of X\\Design Pattern\\FactoryMethod\\FactoryMethod\\FactoryMethod\\FactoryMethod.csproj",
-      "projectName": "FactoryMethod",
-      "projectPath": "H:\\Gang Of X\\Design Pattern\\FactoryMethod\\FactoryMethod\\FactoryMethod\\FactoryMethod.csproj",
+      "projectUniqueName": "H:\\Gang Of X\\Design Pattern\\FactoryMethod\\FactoryMethod\\FactoryMethod\\1-FactoryMethod.csproj",
+      "projectName": "1-FactoryMethod",
+      "projectPath": "H:\\Gang Of X\\Design Pattern\\FactoryMethod\\FactoryMethod\\FactoryMethod\\1-FactoryMethod.csproj",
       "packagesPath": "C:\\Users\\SaraHome\\.nuget\\packages\\",
       "outputPath": "H:\\Gang Of X\\Design Pattern\\FactoryMethod\\FactoryMethod\\FactoryMethod\\obj\\",
       "projectStyle": "PackageReference",

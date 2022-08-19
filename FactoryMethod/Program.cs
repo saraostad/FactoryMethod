@@ -17,8 +17,8 @@ namespace FactoryMethod
             IFactory bike = factory.GetVehicle("Bike");
             bike.Drive(20);
 
-            IFactory unknow = factory.GetVehicle("unknow");
-            unknow.Drive(20);
+            //IFactory unknow = factory.GetVehicle("unknow");
+            //unknow.Drive(20);
 
             Console.ReadKey();
 
